@@ -1,0 +1,6 @@
+{
+  "name": "OnWay News",
+  "description": "India's premier hyperlocal short news and media platform featuring magazine-style flip cards across 8 Indian languages, paired with an integrated Playwright test automation, CI/CD pipeline, and regional analytics operations console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
